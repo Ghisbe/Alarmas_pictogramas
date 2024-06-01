@@ -1,1 +1,1 @@
-# Alarmas_pictogramas
+# Alertas_pictogramas
