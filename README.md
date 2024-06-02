@@ -4,11 +4,11 @@
 Título de proyecto: "Sistema de alertas meteorologicas para personas con TDAH-TDA"
 
 2. Integrantes:
--Figueroa	Gisela 
--Valverde	Marcela
--Villareal Barroso	Angel
--Rodriguez	Maria Gabriela
--Rodriguez	Maria Belen
+- Figueroa	Gisela 
+- Valverde	Marcela
+- Villareal Barroso	Angel
+- Rodriguez	Maria Gabriela
+- Rodriguez	Maria Belen
 
 3. Contexto y Problema
 Contexto:
