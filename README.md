@@ -36,6 +36,6 @@ Tecnologías Utilizadas: SpaCy y NLTK para procesamiento de texto.
 - Predicción de Alertas:
 Modelo Utilizado: Redes Neuronales Recurrentes (RNNs).
 Proceso de Entrenamiento: 
-Generación de Pictogramas:
+- Generación de Pictogramas:
 Clasificación a Pictogramas:
 Herramientas Utilizadas: 
