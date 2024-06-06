@@ -1,7 +1,7 @@
 # Alertas_pictogramas
 
 1. Introducción
-Título de proyecto: "Sistema de alertas meteorologicas para personas con TDAH-TDA"
+Título de proyecto: "Sistema de alertas meteorologicas para personas con discapacidad sensorial"
 
 2. Integrantes:
 - Figueroa	Gisela 
