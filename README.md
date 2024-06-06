@@ -35,7 +35,5 @@ Preprocesamiento: limpieza, normalizacion, eliminación de stopwords, lematizaci
 Tecnologías Utilizadas: SpaCy y NLTK para procesamiento de texto.
 - Predicción de Alertas:
 Modelo Utilizado: Redes Neuronales Recurrentes (RNNs).
-Proceso de Entrenamiento: 
 - Generación de Pictogramas:
-Clasificación a Pictogramas:
-Herramientas Utilizadas: 
+Herramientas Utilizadas: OpenCV e imagenes descargadas de https://www.flaticon.es/resultados?word=clima para su procesamiento.
