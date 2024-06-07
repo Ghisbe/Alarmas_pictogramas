@@ -37,3 +37,7 @@ Tecnologías Utilizadas: SpaCy y NLTK para procesamiento de texto.
 Modelo Utilizado: Redes Neuronales Recurrentes (RNNs).
 - Generación de Pictogramas:
 Herramientas Utilizadas: OpenCV e imagenes descargadas de https://www.flaticon.es/resultados?word=clima para su procesamiento.
+
+Dataset procesados y usados para el modelo:
+1- https://drive.google.com/file/d/1fs7dmydF11O-rw1xX3ZDZd-7dGew73lu/view?usp=drive_link
+2- https://drive.google.com/file/d/1E2QjfTk4Ke6u1ZEnmsqWHETproJE5zVK/view?usp=drive_link
