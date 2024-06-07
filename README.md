@@ -1,5 +1,8 @@
 # Alertas_pictogramas
 
+![Orange and Black Illustration World Tuberculosis Day Instagram Post](https://github.com/Ghisbe/Alertas_pictogramas/assets/106556579/4b11f407-71f2-465f-9618-a60beef2e6ab)
+
+
 1. Introducción
 Título de proyecto: "Sistema de alertas meteorologicas para personas con discapacidad sensorial, TDA, TDAH"
 
