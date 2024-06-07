@@ -1,6 +1,6 @@
 # Alertas_pictogramas
 
-![Orange and Black Illustration World Tuberculosis Day Instagram Post](https://github.com/Ghisbe/Alertas_pictogramas/assets/106556579/4b11f407-71f2-465f-9618-a60beef2e6ab)
+![Orange and Black Illustration World Tuberculosis Day Instagram Post](https://github.com/Ghisbe/Alertas_pictogramas/assets/106556579/a73b5b29-6321-41a7-bf4c-f5ef4b60a894)
 
 
 1. Introducción
