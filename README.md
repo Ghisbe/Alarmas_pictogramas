@@ -1,7 +1,7 @@
 # Alertas_pictogramas
 
 1. Introducción
-Título de proyecto: "Sistema de alertas meteorologicas para personas con discapacidad sensorial"
+Título de proyecto: "Sistema de alertas meteorologicas para personas con discapacidad sensorial, TDA, TDAH"
 
 2. Integrantes:
 - Figueroa	Gisela 
@@ -12,7 +12,7 @@ Título de proyecto: "Sistema de alertas meteorologicas para personas con discap
 
 3. Contexto y Problema
 Contexto:
-Según la Organización Mundial de la Salud para personas con autismo o TDAH, la comprensión y respuesta a las señales de alertas puede ser complicada debido a la forma en que procesan la información sensorial. En emergencias, la falta de una comunicación efectiva y accesible puede llevar a situaciones peligrosas y aumentar el riesgo de daño.
+Según la Organización Mundial de la Salud para personas con discapacidad sensorial como con autismo o TDAH, la comprensión y respuesta a las señales de alertas puede ser complicada debido a la forma en que procesan la información. En emergencias, la falta de una comunicación efectiva y accesible puede llevar a situaciones peligrosas y aumentar el riesgo de daño.
 El propósito es facilitar la comprensión de situaciones de emergencia y promover una respuesta adecuada por parte de las personas con discapacidades sensoriales, mejorando así su seguridad y autonomía en momentos críticos.
 
 4. Objetivos del Proyecto
